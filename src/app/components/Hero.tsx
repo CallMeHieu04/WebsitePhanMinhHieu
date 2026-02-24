@@ -8,7 +8,7 @@ export function Hero() {
         <div className="mb-8">
           <img
             src={avatarImage}
-            <img src="/hero-image.png" alt="Profile" ... />
+            <img src="/hero-image.png" alt="Profile"
             className="w-32 h-32 rounded-full object-cover mx-auto shadow-lg border-4 border-white"
           />
         </div>
