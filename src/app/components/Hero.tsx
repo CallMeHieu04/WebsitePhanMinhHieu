@@ -1,5 +1,5 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
-import avatarImage from 'figma:asset/5c72e0529ed9b7068321d2d1efb0bdd663c4403a.png';
+
 
 export function Hero() {
   return (
@@ -8,7 +8,7 @@ export function Hero() {
         <div className="mb-8">
           <img
             src={avatarImage}
-            alt="Profile"
+            <img src="/hero-image.png" alt="Profile" ... />
             className="w-32 h-32 rounded-full object-cover mx-auto shadow-lg border-4 border-white"
           />
         </div>
