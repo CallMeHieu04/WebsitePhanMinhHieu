@@ -1,14 +1,13 @@
 import { Github, Linkedin, Mail } from 'lucide-react';
 
-
 export function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 px-4">
       <div className="max-w-4xl w-full text-center">
         <div className="mb-8">
           <img
-            src={avatarImage}
-            <img src="/hero-image.png" alt="Profile"
+            src="/hero-image.png"
+            alt="Profile"
             className="w-32 h-32 rounded-full object-cover mx-auto shadow-lg border-4 border-white"
           />
         </div>
