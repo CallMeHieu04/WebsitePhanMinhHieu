@@ -1,11 +1,31 @@
+# Portfolio Website - Phan Minh Hiếu (MiHi)
 
-  # Personal Introduction Page
+Trang web giới thiệu bản thân được xây dựng với React, TypeScript và Tailwind CSS.
 
-  This is a code bundle for Personal Introduction Page. The original project is available at https://www.figma.com/design/y11sO0XFXb2tEqlLtzqFXs/Personal-Introduction-Page.
+## 🚀 Demo
 
-  ## Running the code
+Website: [https://mihi.dpdns.org](https://mihi.dpdns.org)
 
-  Run `npm i` to install the dependencies.
+## 📦 Cài đặt
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+```
+
+## 🛠️ Phát triển
+
+```bash
+npm run dev
+```
+
+## 🏗️ Build
+
+```bash
+npm run build
+```
+
+## 📧 Liên hệ
+
+- Email: hieu01634754158@gmail.com
+- Điện thoại: +84 334754158
+- Địa chỉ: Đà Nẵng, Việt Nam
